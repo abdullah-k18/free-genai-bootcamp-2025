@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What are events in C# and how do they work?",
+        "answer": "Events in C# are a way of notifying other classes that something has happened. They work by having a publisher that fires an event, and subscribers that listen to that event and perform an action when it is fired."
+    },
+    {
+        "question": "What is the benefit of using events in C#?",
+        "answer": "The benefit of using events in C# is that they allow objects to work together without being tightly coupled, making the code more flexible and easier to maintain."
+    },
+    {
+        "question": "How do you define an event in C#?",
+        "answer": "You define an event in C# by using the 'event' keyword, followed by the type of the event, which is typically a delegate, such as EventHandler."
+    },
+    {
+        "question": "What is the purpose of the 'EventArgs' class in C# events?",
+        "answer": "The 'EventArgs' class is used to pass additional information to the event handler when an event is fired."
+    },
+    {
+        "question": "How do you subscribe to an event in C#?",
+        "answer": "You subscribe to an event in C# by using the '+=' operator, followed by the event handler method that will be called when the event is fired."
+    },
+    {
+        "question": "How do you unsubscribe from an event in C#?",
+        "answer": "You unsubscribe from an event in C# by using the '-=' operator, followed by the event handler method that was previously subscribed to the event."
+    },
+    {
+        "question": "What is the difference between a regular event and a Unity event?",
+        "answer": "A Unity event is similar to a regular event, but it is shown in the Unity editor and can be easily set up and connected to other objects and methods."
+    },
+    {
+        "question": "What is the benefit of using Unity events?",
+        "answer": "The benefit of using Unity events is that they can be easily set up and connected to other objects and methods in the Unity editor, making it easier to design and test gameplay logic."
+    },
+    {
+        "question": "Can you use a custom delegate type for an event in C#?",
+        "answer": "Yes, you can use a custom delegate type for an event in C# by defining a delegate type that matches the signature of the event handler method."
+    },
+    {
+        "question": "What is the purpose of the 'Action' delegate in C#?",
+        "answer": "The 'Action' delegate is a built-in delegate type in C# that represents a method that takes no arguments and returns no value, and can be used as a type for an event or a method parameter."
+    }
+]
