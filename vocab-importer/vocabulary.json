@@ -1,0 +1,37 @@
+[
+  {
+    "word": "wood",
+    "urdu": "\u0644\u06a9\u0691\u06cc",
+    "romanji": "lakri"
+  },
+  {
+    "word": "chair",
+    "urdu": "\u06a9\u0631\u0633\u06cc",
+    "romanji": "kursi"
+  },
+  {
+    "word": "car",
+    "urdu": "\u06af\u0627\u0691\u06cc",
+    "romanji": "gaadi"
+  },
+  {
+    "word": "truck",
+    "urdu": "\u0679\u0631\u06a9",
+    "romanji": "taruk"
+  },
+  {
+    "word": "hair",
+    "urdu": "\u0628\u0627\u0644",
+    "romanji": "baal"
+  },
+  {
+    "word": "hello",
+    "urdu": "\u062d\u064a\u0644\u0648",
+    "romanji": "hel-lo"
+  },
+  {
+    "word": "work",
+    "urdu": "\u06a9\u0627\u0645",
+    "romanji": "kaam"
+  }
+]
