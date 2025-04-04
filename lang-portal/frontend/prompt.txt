@@ -1,0 +1,46 @@
+i want to build a urdu language learning web application.
+
+<Role/Profession>
+	Frontend Developer
+</ Role/Profession>
+
+<Project Description>
+	I am building a urdu language web application which serves the followinfg purposes.
+	- A portal to lunch study activities
+	- to save, group, and explore the urdu vocabolary
+	- to review study progress
+</ Project Description>
+
+<Technical Requirements>
+	- React.js as the frontend library
+	- Tailwind CSS as the CSS framework.
+	- Vue.js as the local development server.
+	- Typescript for the programming language
+	- ShadCN for UI compnents
+</ Technical Requirements>
+
+<Frontend Routes>
+	Below is the list of the routes of the web application. Each of the routes are different pages.
+	- /dashboard
+	- /study-activities
+	- /study-activities/[id]
+	- /words
+	- /words/[id]
+	- /groups
+	- /groups/[id]
+	- /sessions
+	- /settings
+
+	The default route / should always forward to the /dashboard route
+</ Frontend Routes>
+
+<Navigation Items>
+	There will be a horizontal navigation bar witht th following links that takes to the pages.
+	
+	- Dashboard
+	- Study Activities
+	- Words
+	- Word Groups
+	- Sessions
+	- Settings
+</ Navigation Items>
